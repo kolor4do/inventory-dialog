@@ -1,12 +1,4 @@
 {
 	"user": "nicolasmenegoni",
-	"repo": "inventory-dialog",
-	"entry": "test.pwn",
-	"output": "test.amx",
-	"runtime": {
-		"version": "0.3.7",
-		"mode": "server",
-		"rcon_password": "password",
-		"port": 7777
-	}
+	"repo": "inventory-dialog"
 }
