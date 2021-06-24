@@ -9,16 +9,6 @@
 #endif
 #define _inventory_dialog_included
 
-
-#include <a_samp>
-#include <tick-difference>
-#include <item>
-#include <inventory>
-#include <YSI_Visual\y_dialog>
-
-#include <YSI_Coding\y_hooks>
-
-
 // -
 // Function API
 // -
